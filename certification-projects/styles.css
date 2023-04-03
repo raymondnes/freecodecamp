@@ -1,0 +1,19 @@
+body
+{
+  background-color: burlywood;
+}
+
+h1, p
+{
+  text-align: center;
+}
+
+label
+{
+  display: block;
+}
+
+textarea
+{
+  display: block;
+}
