@@ -1,0 +1,50 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main
+{
+  display: block;
+}
+
+#img-div
+{
+  background-color: white;
+}
+
+#title
+{
+  text-align: center;
+  margin: 17px auto;
+  background-color: gray;
+  color: white;
+}
+
+h1
+{
+  border: white solid 9px;
+}
+
+img
+{
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  padding: 0 20px;
+  border-radius: 8%;;
+}
+
+figcaption
+{
+  font-size: 15px;
+  text-align: center;
+}
+
+p
+{
+  font-family: 'Times New Roman';
+  text-align: center;
+}
